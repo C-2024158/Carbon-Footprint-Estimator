@@ -1,0 +1,4 @@
+﻿Diet Type,Transport Mode,Weekly km,Electricity kWh,CO₂ kg/week
+Omnivore,Car,150,50,180
+Vegetarian,Public Transit,50,30,95
+Vegan,Bicycle,20,20,60
